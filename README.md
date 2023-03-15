@@ -1,7 +1,5 @@
 # geojson_jawa_bali
 
-indonesia-prov.geojson.txt
-Source: https://github.com/ans-4175/peta-indonesia-geojson
+indonesia-prov.geojson.txt, Source: https://github.com/ans-4175/peta-indonesia-geojson
 
-
-source
+simplified-indonesia-cities.gejson, source: https://github.com/okzapradhana/indonesia-city-geojson
